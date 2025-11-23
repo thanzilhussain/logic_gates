@@ -1,0 +1,6 @@
+{C:/Users/hp/OneDrive/Desktop/digital electronics/logic_gates/digital electronics.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Users/hp/OneDrive/Desktop/digital electronics/logic_gates/digital electronics.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6c Compiler 2017.07 Jul 26 2017
+-- Loading package STANDARD
+** Error (suppressible): C:/Users/hp/OneDrive/Desktop/digital electronics/logic_gates/digital electronics.vhd(2): (vcom-1491) Empty source files.
+
+} {} {}}
